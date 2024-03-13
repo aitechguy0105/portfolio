@@ -11,7 +11,11 @@
             "avatarUrl": "https://avatars3.githubusercontent.com/u/1525981?v=4",
             "__typename": "Organization"
         },
-   
+        {
+            "login": "ReactTraining",
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/11823761?v=4",
+            "__typename": "Organization"
+        },
         {
             "login": "keras-team",
             "avatarUrl": "https://avatars0.githubusercontent.com/u/34455048?v=4",
@@ -29,7 +33,31 @@
             "login": "google",
             "avatarUrl": "https://avatars1.githubusercontent.com/u/1342004?v=4",
             "__typename": "Organization"
+        },
+        {
+            "login": "fossasia",
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/6295529?v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "gatsbyjs",
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/12551863?v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "tensorflow",
+            "avatarUrl": "https://avatars1.githubusercontent.com/u/15658638?v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "kiwix",
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/826219?v=4",
+            "__typename": "Organization"
+        },
+        {
+            "login": "uber",
+            "avatarUrl": "https://avatars3.githubusercontent.com/u/538264?v=4",
+            "__typename": "Organization"
         }
-      
     ]
 }
