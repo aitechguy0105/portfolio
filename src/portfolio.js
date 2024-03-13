@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Yan's Portfolio",
+  title: "Steve's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Yan Pliuta Portfolio",
+    title: "Steve Jin Portfolio",
     type: "website",
-    url: "http://yanpliuta.vercel.com/",
+    url: "http://stevejin.vercel.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Yan Pliuta",
-  logo_name: "YanPliuta",
-  nickname: "smart_guy",
+  title: "Steve Jin",
+  logo_name: "SteveJin",
+  nickname: "aitech_guy",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1QD1Nhf8dDIFZ1Y9cynqwGt865O6Nc3rF/view?usp=drive_link",
-  portfolio_repository: "https://github.com/yanpliuta/portfolio",
-  githubProfile: "https://github.com/yanpliuta",
+    "https://github.com/aitechguy0105",
+  portfolio_repository: "https://github.com/aitechguy0105/portfolio",
+  githubProfile: "https://github.com/aitechguy0105",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/yanpliuta",
+    link: "https://github.com/aitechguy0105",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -60,7 +60,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:yan.pliuta.navy@gmail.com",
+    link: "mailto:stevejin88@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
