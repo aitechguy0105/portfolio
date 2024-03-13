@@ -54,7 +54,7 @@ class DegreeCard extends Component {
                   </p>
                 );
               })}
-              {degree.website_link && (
+              {/* {degree.website_link && (
                 <a
                   href={degree.website_link}
                   target="_blank"
@@ -69,7 +69,7 @@ class DegreeCard extends Component {
                     </p>
                   </div>
                 </a>
-              )}
+              )} */}
             </div>
           </div>
         </Fade>
