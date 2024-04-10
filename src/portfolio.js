@@ -541,20 +541,20 @@ const experience = {
       title: "Work",
       work: true,
       experiences: [
-        // {
-        //   title: "Machine Learning Engineer",
-        //   company: "InnovateIQ Solutions",
-        //   company_url: "http://innovateiq.com/",
-        //   logo_path: "innovate.png",
-        //   duration: "Apr 2021 - Mar 2022",
-        //   location: "Bengaluru, India",
-        //   description:
-        //     "Responsible for designing and developing AI models for the company’s healthcare and finance products, Developed algorithms to detect fraud in financial transactions with a 98% accuracy rate, Collaborated with a team of data scientists and engineers to develop a natural language processing (NLP),algorithm for a healthcare client, improving patient diagnosis accuracy by 15% and reducing misdiagnosis rates by 10%., Developed and deployed a machine learning model for a financial services client, resulting in a 20% reduction in fraudulent transactions and saving the client $300,000 annually.",
-        //   color: "#0879bf",
-        // },
+        {
+          title: "NLP/AWS Cloud Engineer",
+          company: "MAAJTEK PTE. LTD.",
+          company_url: "https://www.maajtek.com/",
+          logo_path: "innovate.png",
+          duration: "Apr 2021 - Mar 2022",
+          location: "Bengaluru, India",
+          description:
+            "Responsible for designing and developing AI models for the company’s healthcare and finance products, Developed algorithms to detect fraud in financial transactions with a 98% accuracy rate, Collaborated with a team of data scientists and engineers to develop a natural language processing (NLP),algorithm for a healthcare client, improving patient diagnosis accuracy by 15% and reducing misdiagnosis rates by 10%., Developed and deployed a machine learning model for a financial services client, resulting in a 20% reduction in fraudulent transactions and saving the client $300,000 annually.",
+          color: "#0879bf",
+        },
         {
           title: "Data Analyst",
-          company: "Hometalk Community",
+          company: "MAAJTEK PTE. LTD.",
           company_url: "https://www.hometalk.com/",
           logo_path: "hometalk.png",
           duration: "Apr 2019 - Apr 2021",
