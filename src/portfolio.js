@@ -7,20 +7,20 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Steve's Portfolio",
+  title: "KaiMingLee's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Steve Jin Portfolio",
+    title: "KaiMingLee Portfolio",
     type: "website",
-    url: "http://stevejin.vercel.com/",
+    url: "http://aitechguy.vercel.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Steve Jin",
-  logo_name: "SteveJin",
+  title: "KaiMingLee",
+  logo_name: "KaiMingLee",
   nickname: "aitech_guy",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
@@ -60,7 +60,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Gmail",
-    link: "mailto:stevejin88@gmail.com",
+    link: "mailto:kaiminglee340602@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
